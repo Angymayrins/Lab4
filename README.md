@@ -25,6 +25,7 @@ imagen.style.display = 'none'; // Oculta todas las imágenes al cargar la págin
 });
 })
 .catch(error => {
+https://ambienteysociedad.netlify.app/
 console.log('Error al cargar el archivo JSON:', error);
 });
 function limitarDescripcion(texto, longitud) {
